@@ -1,0 +1,256 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+/Length 8500
+>>
+stream
+BT
+/F2 24 Tf
+50 750 Td
+(EXCEL SHORTCUT DICTIONARY) Tj
+ET
+BT
+/F1 14 Tf
+50 720 Td
+(एक्सेल शॉर्टकट डिक्शनरी) Tj
+ET
+BT
+/F1 12 Tf
+50 690 Td
+(Windows और Mac के लिए - हिंदी और अंग्रेजी में) Tj
+ET
+BT
+/F2 14 Tf
+50 650 Td
+(BASIC EDITING - बेसिक एडिटिंग) Tj
+ET
+BT
+/F2 11 Tf
+50 620 Td
+(File Operations - फाइल ऑपरेशन) Tj
+ET
+BT
+/F1 10 Tf
+50 600 Td
+(Windows:) Tj
+ET
+BT
+/F1 9 Tf
+50 585 Td
+(Ctrl + N = नई फाइल बनाएं | Ctrl + O = फाइल खोलें | Ctrl + S = फाइल सहेजें) Tj
+ET
+BT
+/F1 9 Tf
+50 575 Td
+(Ctrl + Shift + S = इस तरह सहेजें | Ctrl + W = बंद करें | Ctrl + Q = बाहर निकलें) Tj
+ET
+BT
+/F1 10 Tf
+50 560 Td
+(Mac:) Tj
+ET
+BT
+/F1 9 Tf
+50 545 Td
+(Cmd + N = नई फाइल बनाएं | Cmd + O = फाइल खोलें | Cmd + S = फाइल सहेजें) Tj
+ET
+BT
+/F1 9 Tf
+50 535 Td
+(Cmd + Shift + S = इस तरह सहेजें | Cmd + W = बंद करें | Cmd + Q = बाहर निकलें) Tj
+ET
+BT
+/F2 11 Tf
+50 510 Td
+(Edit Operations - संपादन ऑपरेशन) Tj
+ET
+BT
+/F1 10 Tf
+50 490 Td
+(Windows:) Tj
+ET
+BT
+/F1 9 Tf
+50 475 Td
+(Ctrl + Z = पूर्ववत करें | Ctrl + Y = दोहराएं | Ctrl + X = कट करें) Tj
+ET
+BT
+/F1 9 Tf
+50 465 Td
+(Ctrl + C = कॉपी करें | Ctrl + V = पेस्ट करें | Ctrl + Shift + V = विशेष पेस्ट) Tj
+ET
+BT
+/F1 9 Tf
+50 455 Td
+(Ctrl + A = सभी का चयन करें | Ctrl + F = ढूंढें | Ctrl + H = ढूंढें और बदलें) Tj
+ET
+BT
+/F1 10 Tf
+50 440 Td
+(Mac:) Tj
+ET
+BT
+/F1 9 Tf
+50 425 Td
+(Cmd + Z = पूर्ववत करें | Cmd + Y = दोहराएं | Cmd + X = कट करें) Tj
+ET
+BT
+/F1 9 Tf
+50 415 Td
+(Cmd + C = कॉपी करें | Cmd + V = पेस्ट करें | Cmd + Ctrl + V = विशेष पेस्ट) Tj
+ET
+BT
+/F1 9 Tf
+50 405 Td
+(Cmd + A = सभी का चयन करें | Cmd + F = ढूंढें | Cmd + H = ढूंढें और बदलें) Tj
+ET
+BT
+/F2 14 Tf
+50 370 Td
+(FORMATTING - फॉर्मेटिंग) Tj
+ET
+BT
+/F2 11 Tf
+50 340 Td
+(Text Formatting - टेक्स्ट फॉर्मेटिंग) Tj
+ET
+BT
+/F1 10 Tf
+50 320 Td
+(Windows:) Tj
+ET
+BT
+/F1 9 Tf
+50 305 Td
+(Ctrl + B = बोल्ड | Ctrl + I = इटैलिक | Ctrl + U = अंडरलाइन) Tj
+ET
+BT
+/F1 9 Tf
+50 295 Td
+(Alt + Shift + 5 = स्ट्राइकथ्रू | Ctrl + Shift + U = डबल अंडरलाइन) Tj
+ET
+BT
+/F1 10 Tf
+50 280 Td
+(Mac:) Tj
+ET
+BT
+/F1 9 Tf
+50 265 Td
+(Cmd + B = बोल्ड | Cmd + I = इटैलिक | Cmd + U = अंडरलाइन) Tj
+ET
+BT
+/F1 9 Tf
+50 255 Td
+(Cmd + Shift + X = स्ट्राइकथ्रू | Cmd + Shift + U = डबल अंडरलाइन) Tj
+ET
+BT
+/F2 11 Tf
+50 230 Td
+(Cell Formatting - सेल फॉर्मेटिंग) Tj
+ET
+BT
+/F1 10 Tf
+50 210 Td
+(Windows:) Tj
+ET
+BT
+/F1 9 Tf
+50 195 Td
+(Ctrl + 1 = सेल फॉर्मेट | Ctrl + Shift + 1 = संख्या | Ctrl + Shift + 4 = मुद्रा) Tj
+ET
+BT
+/F1 9 Tf
+50 185 Td
+(Ctrl + Shift + 5 = प्रतिशत | Ctrl + Shift + 2 = समय | Ctrl + Shift + 6 = वैज्ञानिक) Tj
+ET
+BT
+/F1 10 Tf
+50 170 Td
+(Mac:) Tj
+ET
+BT
+/F1 9 Tf
+50 155 Td
+(Cmd + 1 = सेल फॉर्मेट | Cmd + Shift + 1 = संख्या | Cmd + Shift + 4 = मुद्रा) Tj
+ET
+BT
+/F1 9 Tf
+50 145 Td
+(Cmd + Shift + 5 = प्रतिशत | Cmd + Shift + 2 = समय | Cmd + Shift + 6 = वैज्ञानिक) Tj
+ET
+BT
+/F2 11 Tf
+50 120 Td
+(Border & Fill - बॉर्डर और भरण) Tj
+ET
+BT
+/F1 9 Tf
+50 105 Td
+(Windows: Ctrl + Shift + 7 = बॉर्डर | Alt + H, H = भरण रंग | Alt + H, F, C = फॉन्ट रंग) Tj
+ET
+BT
+/F1 9 Tf
+50 95 Td
+(Mac: Cmd + Shift + 7 = बॉर्डर | Cmd + Option + F = भरण रंग | Cmd + Option + C = फॉन्ट रंग) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000273 00000 n
+0000000352 00000 n
+0000000433 00000 n
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+9033
+%%EOF
